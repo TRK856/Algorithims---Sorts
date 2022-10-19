@@ -3,28 +3,20 @@ namespace ConsoleApp
     public class Sort
     {
         static public void bubble(int[] anArray) {
-            int arrLength = anArray.Length;
-            for (int i = 1; i < anArray.Length; i++) {
-                int pos = 0;
-                arrLength--;
-                for (int f = 0; f < arrLength; f++) {
-                    if(anArray[pos] > anArray[pos+1]){
-                        Utility.swap(anArray, pos, pos+1);
+            for (int numCompare = anArray.Length - 1; numCompare > 0; numCompare--) {
+                for (int f = 0; f < numCompare; f++) {
+                    if(anArray[f] > anArray[f+1]){
+                        Utility.swap(anArray, f, f+1);
                     }
-                    pos++;
                 }   
             }
         } 
         static public void bubble(string[] anArray) {
-            int arrLength = anArray.Length;
-            for (int i = 1; i < anArray.Length; i++) {
-                int pos = 0;
-                arrLength--;
-                for (int f = 0; f < arrLength; f++) {
-                    if(String.Compare(anArray[pos], anArray[pos+1]) > 0){
-                        Utility.swap(anArray, pos, pos+1);
+             for (int numCompare = anArray.Length - 1; numCompare > 0; numCompare--) {
+                for (int f = 0; f < numCompare; f++) {
+                    if(String.Compare(anArray[f], anArray[f+1]) > 0){
+                        Utility.swap(anArray, f, f+1);
                     }
-                    pos++;
                 }   
             }
         } 
