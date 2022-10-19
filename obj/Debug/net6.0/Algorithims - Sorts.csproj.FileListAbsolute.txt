@@ -1,0 +1,15 @@
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/Algorithims - Sorts.csproj.AssemblyReference.cache
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/Algorithims - Sorts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/Algorithims - Sorts.AssemblyInfoInputs.cache
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/Algorithims - Sorts.AssemblyInfo.cs
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/Algorithims - Sorts.csproj.CoreCompileInputs.cache
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/bin/Debug/net6.0/Algorithims - Sorts
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/bin/Debug/net6.0/Algorithims - Sorts.deps.json
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/bin/Debug/net6.0/Algorithims - Sorts.runtimeconfig.json
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/bin/Debug/net6.0/Algorithims - Sorts.dll
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/bin/Debug/net6.0/Algorithims - Sorts.pdb
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/Algorithims - Sorts.dll
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/refint/Algorithims - Sorts.dll
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/Algorithims - Sorts.pdb
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/Algorithims - Sorts.genruntimeconfig.cache
+/Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/ref/Algorithims - Sorts.dll
