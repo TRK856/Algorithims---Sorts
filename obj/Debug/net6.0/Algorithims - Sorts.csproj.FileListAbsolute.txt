@@ -13,3 +13,18 @@
 /Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/Algorithims - Sorts.pdb
 /Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/Algorithims - Sorts.genruntimeconfig.cache
 /Users/taharehankamil/Downloads/VSCode/Algorithims - Sorts/obj/Debug/net6.0/ref/Algorithims - Sorts.dll
+F:\CS30\Algorithims---Sorts\bin\Debug\net6.0\Algorithims - Sorts.exe
+F:\CS30\Algorithims---Sorts\bin\Debug\net6.0\Algorithims - Sorts.deps.json
+F:\CS30\Algorithims---Sorts\bin\Debug\net6.0\Algorithims - Sorts.runtimeconfig.json
+F:\CS30\Algorithims---Sorts\bin\Debug\net6.0\Algorithims - Sorts.dll
+F:\CS30\Algorithims---Sorts\bin\Debug\net6.0\Algorithims - Sorts.pdb
+F:\CS30\Algorithims---Sorts\obj\Debug\net6.0\Algorithims - Sorts.csproj.AssemblyReference.cache
+F:\CS30\Algorithims---Sorts\obj\Debug\net6.0\Algorithims - Sorts.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Algorithims---Sorts\obj\Debug\net6.0\Algorithims - Sorts.AssemblyInfoInputs.cache
+F:\CS30\Algorithims---Sorts\obj\Debug\net6.0\Algorithims - Sorts.AssemblyInfo.cs
+F:\CS30\Algorithims---Sorts\obj\Debug\net6.0\Algorithims - Sorts.csproj.CoreCompileInputs.cache
+F:\CS30\Algorithims---Sorts\obj\Debug\net6.0\Algorithims - Sorts.dll
+F:\CS30\Algorithims---Sorts\obj\Debug\net6.0\refint\Algorithims - Sorts.dll
+F:\CS30\Algorithims---Sorts\obj\Debug\net6.0\Algorithims - Sorts.pdb
+F:\CS30\Algorithims---Sorts\obj\Debug\net6.0\Algorithims - Sorts.genruntimeconfig.cache
+F:\CS30\Algorithims---Sorts\obj\Debug\net6.0\ref\Algorithims - Sorts.dll
